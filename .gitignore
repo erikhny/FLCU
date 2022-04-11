@@ -1,3 +1,5 @@
 /env/*
 env/*
+/venv/*
+venv/*
 /"MSc - Testing"/.ipynb_checkpoints/*
